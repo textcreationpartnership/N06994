@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008887_0000_10308F20064CABC0" rendition="simple:additions"/>
-            <pb facs="tcp:008887_0001_10308F21B05DAB08"/>
+            <pb facs="unknown:008887_0000_10308F20064CABC0"
+                rendition="simple:additions"/>
+            <pb facs="unknown:008887_0001_10308F21B05DAB08"/>
             <p>MINUTES OF CONFERENCES, HELD AT <hi>EASTON,</hi> In <hi>AUGUST,</hi> 1761.</p>
             <p>With the Chief SASCHEMS and WARRIORS of the
 <list>
@@ -138,7 +139,7 @@
       </front>
       <body>
          <head>
-            <pb n="3" facs="tcp:008887_0002_10308F25B77C6050"/>
+            <pb n="3" facs="unknown:008887_0002_10308F25B77C6050"/>
             <hi>Minutes of Conferences,</hi> &amp;c.</head>
          <div type="minutes">
             <head>
@@ -202,7 +203,7 @@
                <hi>A String.</hi>
             </p>
             <p>
-               <pb n="4" facs="tcp:008887_0003_10308F289E6A58B0"/>
+               <pb n="4" facs="unknown:008887_0003_10308F289E6A58B0"/>
                <hi>Brother</hi> Onas,</p>
             <p>We the Seven Nations<note place="margin">1761.</note>, and all our Couſins, are ſorry, from the Bottom of our Hearts, for the Death of your Men, Women and Children; and by this Belt we collect all their Bones together, bury them in one Grave, and cover them up.</p>
             <p>
@@ -277,7 +278,7 @@
                <hi>Brother</hi> Onas,</p>
             <p>BY this Belt, three Years ago, at a Treaty held here at <hi>Eaſton,</hi> the Governor invited us to come down in greater Numbers, as we were not all then preſent; and now that we
 <pb n="5"
-                   facs="tcp:008887_0004_10308F2B7B7A41E0"
+                   facs="unknown:008887_0004_10308F2B7B7A41E0"
                    rendition="simple:additions"/>do all appear, we return you the Belt, that had been given us at the making the Peace, and are glad to ſee you here Face to Face.</p>
             <p>
                <hi>A very large white Belt of eighteen Rows.</hi>
@@ -363,7 +364,7 @@
                <hi>Papounan,</hi> by one of his <hi>Indians,</hi> called <hi>Tougachena,</hi> living at <hi>Wighalouſin,</hi> then ſpoke to the Governor as follows.</p>
             <p>Agreeable to your Requeſt, when I was at <hi>Philadelphia</hi> laſt Summer, I carried your Meſ<g ref="char:EOLhyphen"/>ſage to <hi>Achoan,</hi> the Chief of the <hi>Miniſinks,</hi> reſpecting his ſending the <hi>Engliſh</hi> Priſoners, and I now deliver to you <hi>Achoan</hi>'s Anſwer.</p>
             <p>
-               <pb n="6" facs="tcp:008887_0005_10308F2D270983D8"/>
+               <pb n="6" facs="unknown:008887_0005_10308F2D270983D8"/>
                <hi>Brother</hi> Onas,</p>
             <p>
                <q>You deſired me laſt Year that I ſhould clear myſelf, as your Brothers that live at Wig<g ref="char:EOLhyphen"/>halouſin did, by which you would have a Proof of my Friendſhip. After I received your Meſſage, I took it away to my Uncles, the <hi>Senecas,</hi> and delivered to them what you had ſaid to me, upon which they adviſed me to deliver up all the Captives: Now Brother, I would have you not be impatient, and I will come as ſoon as poſſible. I will hunt up all the Captives that are amongſt us, and will not leave one, but will bring them all;—but I have not found them all. I expect to come when the Corn is ripe; but if I ſhould fail then, I will certainly come by the Spring.</q>
@@ -438,7 +439,7 @@
                <hi>Brother,</hi>
             </p>
             <p>As I told you juſt now that we have one Ear, I deſire you would hear me: My Uncles, the <hi>Seven Nations,</hi> that ſit here now, deſire me to leave <hi>Wyoming,</hi> for Fear; I anſwered,
-<pb n="7" facs="tcp:008887_0006_10308F300DD89610"/>I will not leave it ſo ſuddenly; but, if I ſhould ſee any Danger, I will endeavour to jump out of the Way of that Danger.</p>
+<pb n="7" facs="unknown:008887_0006_10308F300DD89610"/>I will not leave it ſo ſuddenly; but, if I ſhould ſee any Danger, I will endeavour to jump out of the Way of that Danger.</p>
             <p>
                <hi>A black and white Belt of ſix Rows.</hi>
             </p>
@@ -520,7 +521,7 @@
                <hi>Brethren,</hi>
             </p>
             <p>We are very ſenſible, with you, that both of us have ſuſtained a very heavy Loſs, by the
-<pb n="8" facs="tcp:008887_0007_10308F354CAD7BC0"/>Death of our old and good Friend <hi>Conrad Weiſer,</hi> who was an able, experienced and faithful Interpreter, and one of the Council of the <hi>Seven Nations,</hi> and that ſince his Death we, as well as you, have ſat in Darkneſs, and are at a great Loſs for Want of well underſtanding what we ſay to one another: We mourn, with you, for his Death, and heartily join in covering his Body with Bark.</p>
+<pb n="8" facs="unknown:008887_0007_10308F354CAD7BC0"/>Death of our old and good Friend <hi>Conrad Weiſer,</hi> who was an able, experienced and faithful Interpreter, and one of the Council of the <hi>Seven Nations,</hi> and that ſince his Death we, as well as you, have ſat in Darkneſs, and are at a great Loſs for Want of well underſtanding what we ſay to one another: We mourn, with you, for his Death, and heartily join in covering his Body with Bark.</p>
             <p>
                <hi>A Belt.</hi>
             </p>
@@ -560,7 +561,7 @@
                <hi>Brethren,</hi>
             </p>
             <p>My Counſellors well remember, that this Belt was given you by the late Governor of this Province, at the laſt Treaty, but you ſeem to have miſtaken the End and Purpoſe for which it was given: I muſt therefore inform you, that it was given to you as a Peace Belt, by which we then renewed our old Treaties, brightened the Chain of Friendſhip, confirmed our former Union, and put freſh Earth to the Roots of the Tree of Peace, that it might bear up againſt every Storm, and live and flouriſh to the End of Time, whilſt the Sun ſhould ſhine, and the Rivers run; and we then further deſired you would publiſh this good News among your own and all other <hi>Indian</hi> Nations, who were your Friends and Allies, and engage them to join with you in a firm Peace with our great King, and all his People. All this ap<g ref="char:EOLhyphen"/>pears by the Minutes of that Treaty, taken down to Writing at that Time; you ought
-<pb n="9" facs="tcp:008887_0008_10308F370797A250"/>therefore to preſerve this Belt, as a Blood or Earneſt of the Engagements are then made to one another, and keep it ſafe in your Boſoms, and I now return it year for that Purpoſe</p>
+<pb n="9" facs="unknown:008887_0008_10308F370797A250"/>therefore to preſerve this Belt, as a Blood or Earneſt of the Engagements are then made to one another, and keep it ſafe in your Boſoms, and I now return it year for that Purpoſe</p>
             <p>
                <hi>The Peace Belt returned.</hi>
             </p>
@@ -610,7 +611,7 @@
             <p>
                <hi>Brother</hi> Onas,</p>
             <p>I AM to ſpeak a few Words to you. We had a great Council Fire at <hi>Albany,</hi> when a Friendſhip was firſt made with our Grandfathers; after which, about ſeven Years ago, our Brother General <hi>Johnſon</hi> moved the Council Fire from <hi>Albany</hi> to his own Houſe, where he ſaid to us. <q>I am one Half <hi>Indian,</hi> and one Half <hi>Engliſh:</hi> What I ſay to my dear Brethren, the <hi>Seven Nations,</hi> ſhall be true.</q>—The <hi>Seven Nations</hi> were accordingly all aſſembled to the Place where he had kindled the Fire, at which Time he took up a Toma<g ref="char:EOLhyphen"/>hawk, gave it them, and told them, he was going to War againſt the <hi>French,</hi> and deſired
-<pb n="10" facs="tcp:008887_0009_10308F39E2E5E238"/>them to join with him, and promiſed them, that after the <hi>French</hi> were all conquered and removed, Trade ſhould be made open and free to them, and all Kinds of Goods ſhould be<g ref="char:EOLhyphen"/>come more cheap, and that their Furs and Skins ſhould bear a good Price.—</p>
+<pb n="10" facs="unknown:008887_0009_10308F39E2E5E238"/>them to join with him, and promiſed them, that after the <hi>French</hi> were all conquered and removed, Trade ſhould be made open and free to them, and all Kinds of Goods ſhould be<g ref="char:EOLhyphen"/>come more cheap, and that their Furs and Skins ſhould bear a good Price.—</p>
             <p>Laſt Year General <hi>Johnſon</hi> appointed his Brethren, the <hi>Seven Nations,</hi> to meet him at <hi>Oſwego,</hi> upon which they did aſſemble there; at which Time General <hi>Johnſon</hi> obſerving that their Chiefs and Warriors were not all come, he ſent a ſecond Meſſage, deſiring them all to attend him there, and when they did come he ſaid,</p>
             <p>
                <hi>Brethren,</hi>
@@ -654,7 +655,7 @@
             <p>This is all your Brethren of the <hi>Seven Nations</hi> have to ſay.</p>
          </div>
          <div type="minutes">
-            <pb n="11" facs="tcp:008887_0010_10308F3BE6FEC1F0"/>
+            <pb n="11" facs="unknown:008887_0010_10308F3BE6FEC1F0"/>
             <head>
                <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>on</hi> Monday <hi>the Tenth of</hi> Auguſt, 1761.</head>
             <p>PRESENT, <hi>The Honourable</hi> JAMES HAMILTON, <hi>
@@ -708,7 +709,7 @@
                <hi>(James Sherlock</hi> reports, that he had a Belt from the <hi>Onondagoes</hi> to the <hi>Delawares,</hi> at <hi>Chug<g ref="char:EOLhyphen"/>not,</hi> above <hi>Diahoga,</hi> demanding the <hi>Engliſh</hi> Priſoners they had; that he received one Woman from them, and was coming off with her in a Canoe, but that <hi>Mechtochraway,</hi> the <hi>Delaware</hi> King, followed him, and took her from him, telling him that the <hi>Delawares</hi> would not de<g ref="char:EOLhyphen"/>liver up their Priſoners, till they heard what their Brother, the <hi>Engliſh</hi> ſhould ſay.)</p>
          </div>
          <div type="minutes">
-            <pb n="12" facs="tcp:008887_0011_10308F3F2418D070"/>
+            <pb n="12" facs="unknown:008887_0011_10308F3F2418D070"/>
             <head>
                <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>on</hi> Tueſday <hi>the Eleventh of</hi> Auguſt.</head>
             <p>PRESENT, <hi>The Honourable</hi> JAMES HAMILTON, <hi>
@@ -758,7 +759,7 @@
                <hi>Brethren,</hi>
             </p>
             <p>A great Number of People who lived in <hi>Connecticut</hi> Government, came about a Year ago and ſettled near this River, beyond the Line of the Lands purchaſed of you, at a Place called <hi>Cuſhietunck</hi> and claimed all the Lands from thence quite up to <hi>Wyoming.</hi> As ſoon as heard
-<pb n="13" facs="tcp:008887_0012_10308F40D14A8F38"/>of it I ſent Meſſengers to them, informing them theſe Lands had never been purchaſed of the <hi>Indians,</hi> and deſiring them to remove away. They ſent me back, for Anſwer, that they had purchaſed all thoſe Lands of you, and under that Pretence had a Right to them, and would hold them. Now, Brethren, as you have told me you will hide nothing from me, I deſire you will tell me truly, whether you have ſold theſe Lands to theſe Strangers, who have ſettled them, againſt my Will and Conſent? — (To which Queſtion the <hi>Six Nations</hi> made Anſwer, That thoſe were the Lands which they mentioned Yeſterday to have been ſold by four ſtraggling <hi>Indians,</hi> without the Knowledge or Conſent of their General Council, and that they underſtood <hi>Thomas King,</hi> an <hi>Oneida Indian,</hi> was one of thoſe who had ſold thoſe Lands.)</p>
+<pb n="13" facs="unknown:008887_0012_10308F40D14A8F38"/>of it I ſent Meſſengers to them, informing them theſe Lands had never been purchaſed of the <hi>Indians,</hi> and deſiring them to remove away. They ſent me back, for Anſwer, that they had purchaſed all thoſe Lands of you, and under that Pretence had a Right to them, and would hold them. Now, Brethren, as you have told me you will hide nothing from me, I deſire you will tell me truly, whether you have ſold theſe Lands to theſe Strangers, who have ſettled them, againſt my Will and Conſent? — (To which Queſtion the <hi>Six Nations</hi> made Anſwer, That thoſe were the Lands which they mentioned Yeſterday to have been ſold by four ſtraggling <hi>Indians,</hi> without the Knowledge or Conſent of their General Council, and that they underſtood <hi>Thomas King,</hi> an <hi>Oneida Indian,</hi> was one of thoſe who had ſold thoſe Lands.)</p>
             <p>Upon which Anſwer the Governor ſaid,</p>
             <p>
                <hi>Brethren,</hi>
@@ -805,7 +806,7 @@
                <hi>A Belt.</hi>
             </p>
             <p>
-               <pb n="14" facs="tcp:008887_0013_10308F4279202540"/>
+               <pb n="14" facs="unknown:008887_0013_10308F4279202540"/>
                <hi>Brother,</hi>
             </p>
             <p>You tell me that all your young Men as far as the <hi>Twightwees,</hi> and thoſe now with you, <hi>Mohickons, Opies</hi> and <hi>Delawares,</hi> intend to join in, and ſtand to, whatever you and I have agreed to; and that they will not take Notice of whatever Drops of Blood may have ſtained the Road, but will look ſteadily to our Agreement.</p>
@@ -862,7 +863,7 @@
             <p>I thank you for your Care in ſending my Meſſage to <hi>Achoan,</hi> and for delivering his An<g ref="char:EOLhyphen"/>ſwer. I ſhall give you no more Trouble in this Matter, nor ſend him any more Meſſages; but expect his Uncles, the <hi>Seven Nations,</hi> will acquaint him with what I have ſo ſtrongly urged upon them, during theſe Conferences, with Reſpect to the Delivery of the Priſoners.</p>
          </div>
          <div type="minutes">
-            <pb n="15" facs="tcp:008887_0014_10308F46DDAAAA60"/>
+            <pb n="15" facs="unknown:008887_0014_10308F46DDAAAA60"/>
             <head>At a <hi>CONFERENCE</hi> with the <hi>Indians,</hi> the ſame Day, in the Afternoon.</head>
             <p>PRESENT, <hi>as before.</hi>
             </p>
@@ -924,7 +925,7 @@
                </gap> the Wound is healed up; we are all pleaſed at it ſince this is the Caſe we expect <gap reason="illegible" resp="#UOM" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> pay us for the Lands we have been complaining
-<pb n="16" facs="tcp:008887_0015_10308F4B328D7F70"/>about. It was left to King GEORGE. You told me as ſoon as ever you heard from the King, you would let me know of it; but I have not heard you ſay any thing about it ſince: Now, Brother, as there are ſome here preſent, who have never been paid for ſome of their Lands, we deſire you would pay them now: but as for the <hi>Munſies,</hi> and ſome others at <hi>Al<g ref="char:EOLhyphen"/>legheny,</hi> who alſo claim Lands near this Place, they will agree with you when they ſee you.</p>
+<pb n="16" facs="unknown:008887_0015_10308F4B328D7F70"/>about. It was left to King GEORGE. You told me as ſoon as ever you heard from the King, you would let me know of it; but I have not heard you ſay any thing about it ſince: Now, Brother, as there are ſome here preſent, who have never been paid for ſome of their Lands, we deſire you would pay them now: but as for the <hi>Munſies,</hi> and ſome others at <hi>Al<g ref="char:EOLhyphen"/>legheny,</hi> who alſo claim Lands near this Place, they will agree with you when they ſee you.</p>
             <p>The Governor replied, that he would take into Conſideration what he had ſaid, and would anſwer him in the Morning.</p>
             <p>Being aſked what Lands he deſired to be paid for; he anſwered, that the Lands are where we now ſtand, betwixt the Mountains and <hi>Tohicon Creek,</hi> but acknowledged that ſome Lands about <hi>Durbam,</hi> four Miles ſquare, were paid for.</p>
             <p>Tokahaio <hi>then ſtood up and ſpoke.</hi>
@@ -983,7 +984,7 @@
             </p>
          </div>
          <div type="minutes">
-            <pb n="17" facs="tcp:008887_0016_10308F4CECD664C0"/>
+            <pb n="17" facs="unknown:008887_0016_10308F4CECD664C0"/>
             <head>At a public <hi>CONFERENCE</hi> on the ſame Day.</head>
             <p>PRESENT, <hi>The Honourable</hi> JAMES HAMILTON, <hi>
                   <abbr>Eſq</abbr>
@@ -1015,7 +1016,7 @@
             <p>
                <hi>Brother</hi> Onas,</p>
             <p>We have been here at this Council Fire, and heard what good Word you have ſpoke to We have no more to ſay at preſent, and we ſee likewiſe that you have nothing more to
-<pb n="18" facs="tcp:008887_0017_10308F4FCCC8ACB0"/>ſay to us; we are therefore going to part. When we return home, we will acquaint all our People with what we have heard. We heartily thank you for the good Uſage we have re<g ref="char:EOLhyphen"/>ceived from you.</p>
+<pb n="18" facs="unknown:008887_0017_10308F4FCCC8ACB0"/>ſay to us; we are therefore going to part. When we return home, we will acquaint all our People with what we have heard. We heartily thank you for the good Uſage we have re<g ref="char:EOLhyphen"/>ceived from you.</p>
             <p>The Governor informed them that he had brought up with him a Preſent from the Go<g ref="char:EOLhyphen"/>vernment to them, which Mr. Fox would diſtribute amongſt them To-morrow; and then concluded the Treaty, by ſhaking Hands with the Chiefs of the <hi>Indians.</hi>
             </p>
             <p>In the Afternoon the Governor and his Company ſet out for <hi>Philadelphia.</hi>
